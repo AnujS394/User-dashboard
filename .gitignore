@@ -9,6 +9,9 @@ vite.config.*.timestamp-*
 *-debug.log*
 logs/
 *.log
+data/
+.history/
+server/dist-server/
 .claude-replay.*
 .tmp-*
 
